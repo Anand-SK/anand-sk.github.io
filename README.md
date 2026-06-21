@@ -2,7 +2,7 @@
 
 The repository for my personal portfolio website, hosted via GitHub Pages. This repository serves as a living record of my professional experience, academic and personal research, continuous course learnings, and creative interests.
 
-🌐 **Live Website:** _https://anand-sk.github.io_
+🌐 **Live Website:** _[https://anand-sk.github.io](https://anand-sk.github.io)_
 
 ## Purpose
 
@@ -13,5 +13,3 @@ The goal of this portfolio is to provide a centralized place for my professional
 
 ##
 _Copyright © 2026 Anand Singh Kushwaha. All rights reserved. See the full [LICENSE](LICENSE) file for comprehensive terms._
-
-##
